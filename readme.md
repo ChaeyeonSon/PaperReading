@@ -1,9 +1,9 @@
-#paper reading
+# Paper reading
 
 ***
 
-##SR
+## SR
 
-##PAN Sharpening
+## PAN Sharpening
 
-##Inpainting
+## Inpainting
